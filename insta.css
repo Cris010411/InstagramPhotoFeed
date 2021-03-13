@@ -1,0 +1,31 @@
+.main{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+.content{
+    width: 350px;
+    height: 440px;
+    background-color: rgba(0, 0, 0, 0.1);
+   
+    margin: auto auto 20px auto;
+    
+}
+
+.foto1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 3px;
+}
+.texto1{
+    font-weight: bolder;
+}
+.content3{
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: auto auto 20px auto;
+    width: 350px;
+    height: 440px;
+    
+}
